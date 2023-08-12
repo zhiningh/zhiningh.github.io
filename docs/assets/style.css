@@ -1,0 +1,47 @@
+nav.app-nav li ul {
+  min-width: 100px;
+}
+.markdown-section h1 {
+  margin: 50px 0 1rem;
+}
+.markdown-section h3 {
+  margin: 30px 0 0;
+}
+.text-right {
+  float: right;
+}
+.collapsed {
+  margin-top: 1em;
+}
+.markdown-section code {
+  margin: 0;
+}
+section.cover .cover-main>p:last-child a,
+section.cover .cover-main>p:last-child a:last-child {
+  border-radius: 0;
+  border: 0;
+  background-color: transparent;
+  margin: 3vh 0;
+  padding: 0;
+}
+section.cover .cover-main center {
+    margin: 3em 0;
+}
+.cover-main>p>img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  max-width: 100%;
+}
+.sidebar-nav>p>img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+.cover-intro>code {
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
