@@ -107,7 +107,7 @@
 
 ### `3rd place winner` HackED Beta Hackathon 2019 🔥
 
-?> ResCoding Game is the winning project from over 20 teams. It is designed to educate young children, especially girls, on coding logic with fun stages, cute graphics, and ease to use UI.?> ResCoding Game is the winning project from over 20 teams. It is designed to educate young children, especially girls, on coding logic with fun stages, cute graphics, and with easy to use UI.
+?> ResCoding Game is the winning project from over 20 teams. It is designed to educate young children, especially girls, on coding logic with fun stages, cute graphics, and ease-to-use UI.
 
 🔗 [devpost.com/software/rescoding](https://www.devpost.com/software/rescoding)
 
@@ -182,14 +182,14 @@ teams, assuming various developer roles and responsibilities.
 
 ### Communiti 🌃
 
-?> A blogging platform that allows users to share posts, comments, likes, and etc.
+?> A blogging platform that allows users to share posts, comments, likes, etc.
 
 🔗 [github.com/zhiningh/communiti-404F21](https://github.com/zhiningh/communiti-404F21)
 
 - Structured 50% of the backend functionality for a dynamic blogging site
 that allows simultaneous user interaction such as posting and commenting using the Django REST API.
 - Wrote comprehensive user-facing technical documentation to ensure clear and accessible information for API consumers.
-- Drove code reviews and project demos, and provided timely technical sup- port to teammates, showcasing problem-solving and leadership skills.
+- Drove code reviews and project demos, and provided timely technical support to teammates, showcasing problem-solving and leadership skills.
 
 ### Bookworm 📚
 
@@ -197,7 +197,7 @@ that allows simultaneous user interaction such as posting and commenting using t
 
 🔗 [github.com/zhiningh/bookworm-301F20](https://www.github.com/zhiningh/bookworm-301F20)
 
-- Contributed to a reliable native Android application by writing robust code using Java, Android Studio, and Android SDK, following object-oriented programming best practises.
+- Contributed to a reliable native Android application by writing robust code using Java, Android Studio, and Android SDK, following object-oriented programming best practices.
 - Designed and built a fast uptime NoSQL database using Firestore cloud.
 - Improved application performance by reducing 30% of the application size, fixing 20+ bugs and optimizing the codebase.
 - Led UI design and developed a user-friendly interface by prototyping solutions and styling elements using XML.
