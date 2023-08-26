@@ -107,7 +107,7 @@
 
 ### `3rd place winner` HackED Beta Hackathon 2019 🔥
 
-?> ResCoding Game is the winning project from over 20 teams. It is designed to educate young children, especially girls, on coding logic with fun stages, cute graphics, and with ease to use UI.?> ResCoding Game is the winning project from over 20 teams. It is designed to educate young children, especially girls, on coding logic with fun stages, cute graphics, and with easy to use UI.
+?> ResCoding Game is the winning project from over 20 teams. It is designed to educate young children, especially girls, on coding logic with fun stages, cute graphics, and ease to use UI.?> ResCoding Game is the winning project from over 20 teams. It is designed to educate young children, especially girls, on coding logic with fun stages, cute graphics, and with easy to use UI.
 
 🔗 [devpost.com/software/rescoding](https://www.devpost.com/software/rescoding)
 
@@ -128,7 +128,7 @@
 
 - Gained SDLC experience by collaborating with diverse teams to craft an MVP, converting business logic into robust code, and participating in AB testing.
 - Spearheaded the end-to-end development and testing of a critical feature demanding high responsiveness and real-time state tracking for :robot: training.
-- Developed reliable client applications and high-performance RESTful APIs and services using OpenAI and the Spring Boot framework.
+- Developed reliable client applications and high-performance RESTful APIs and services using OpenAPI and the Spring Boot framework.
 - Enhanced application stability by designing an on-the-fly JSON validation service, ensuring the prevention of application failures due to invalid client-side data.
 - Authored modular, interactive, and async React TypeScript components following the Intuit Design System guidelines and actively integrating user feedback to refine the UX.
 
@@ -149,7 +149,7 @@ teams, assuming various developer roles and responsibilities.
 - Greatly increased usage of the dashboard navigation by designing an intuitive drawer component, utilizing ReactJS, SASS, MUI, and Redux.
 - Committed to weekly releases, deployed and monitored production code through CI/CD pipeline, and utilized Splunk for log analysis.
 - Retrofitted a legacy metadata repository by designing bug-free Python scripts that ensured no disruptions to end-user results. Reduced the development complexity of a single action by 50%.
-- Significantly enhanced application reliability through comprehensive unit testing, resulting in a noteworthy 42% increase in overall code coverage.
+- Significantly enhanced application reliability through unit testing, resulting in a noteworthy 42% increase in overall code coverage.
 
 ### Frontend Developer
 
@@ -197,7 +197,7 @@ that allows simultaneous user interaction such as posting and commenting using t
 
 🔗 [github.com/zhiningh/bookworm-301F20](https://www.github.com/zhiningh/bookworm-301F20)
 
-- Contributed to a reliable and scalable native Android application by writing robust code using Java, Android Studio, and Android SDK, following object-oriented programming best practises.
+- Contributed to a reliable native Android application by writing robust code using Java, Android Studio, and Android SDK, following object-oriented programming best practises.
 - Designed and built a fast uptime NoSQL database using Firestore cloud.
 - Improved application performance by reducing 30% of the application size, fixing 20+ bugs and optimizing the codebase.
 - Led UI design and developed a user-friendly interface by prototyping solutions and styling elements using XML.
